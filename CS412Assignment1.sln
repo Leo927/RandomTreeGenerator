@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RandTreeGenPython", "RandTreeGenPython\RandTreeGenPython.pyproj", "{7C7476DA-5CD8-4F08-98E5-4B9BCD83883B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C7476DA-5CD8-4F08-98E5-4B9BCD83883B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7476DA-5CD8-4F08-98E5-4B9BCD83883B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7C7476DA-5CD8-4F08-98E5-4B9BCD83883B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7C7476DA-5CD8-4F08-98E5-4B9BCD83883B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7476DA-5CD8-4F08-98E5-4B9BCD83883B}.Release|x64.ActiveCfg = Release|Any CPU
+		{7C7476DA-5CD8-4F08-98E5-4B9BCD83883B}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E4E1B9-9B89-4ACC-958D-341F1BA942BB}
+	EndGlobalSection
+EndGlobal
